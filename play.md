@@ -1,3 +1,4 @@
 ---
 title: play
+permalink: /play/
 ---
